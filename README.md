@@ -1,4 +1,4 @@
-# py-automate-repeated_msgs
+# py-automate-repeated-msgs
 
 ### Works in local machine
 Automating sending of repeated messages
